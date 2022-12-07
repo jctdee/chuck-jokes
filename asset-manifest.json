@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/jctdee.github.io/chuck-jokes/static/css/main.6cf3645a.css",
+    "main.js": "/jctdee.github.io/chuck-jokes/static/js/main.80772a53.js",
+    "static/media/bitmap@2x.png": "/jctdee.github.io/chuck-jokes/static/media/bitmap@2x.d3c96c36fbb8f235a524.png",
+    "static/media/bitmap_2@2x.png": "/jctdee.github.io/chuck-jokes/static/media/bitmap_2@2x.3085329cece0548574af.png",
+    "static/media/Montserrat-Black.ttf": "/jctdee.github.io/chuck-jokes/static/media/Montserrat-Black.46e8b3d6aad654578958.ttf",
+    "static/media/Montserrat-Regular.ttf": "/jctdee.github.io/chuck-jokes/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Montserrat-Thin.ttf": "/jctdee.github.io/chuck-jokes/static/media/Montserrat-Thin.4a799b111f608dbf4f89.ttf",
+    "index.html": "/jctdee.github.io/chuck-jokes/index.html",
+    "main.6cf3645a.css.map": "/jctdee.github.io/chuck-jokes/static/css/main.6cf3645a.css.map",
+    "main.80772a53.js.map": "/jctdee.github.io/chuck-jokes/static/js/main.80772a53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cf3645a.css",
+    "static/js/main.80772a53.js"
+  ]
+}
