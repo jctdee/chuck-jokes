@@ -2,6 +2,9 @@
 
 ---
 
+Page link is at https://jctdee.github.io/chuck-jokes/
+However, page is currently showing a white screen due to a bundle error. First time encountering this. Until it gets fixed, please fork and make a local copy and run it on your end to test it.
+
 NOTES
 
 - For the background of categories, I used pastel colors. Colors will be different for each user because I made a pastel color generator, tied it to a category, and saved it to local storage. This is because the list of categories are not static. They are grabbed from the Chuck Norris API
